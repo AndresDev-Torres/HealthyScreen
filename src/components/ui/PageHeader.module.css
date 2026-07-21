@@ -1,0 +1,1 @@
+.header { margin-bottom: 32px; }.header p { color: #438c73; font-size: 12px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; margin: 0 0 8px; }.header h1 { color: #19362c; margin: 0; font-size: clamp(28px, 4vw, 38px); letter-spacing: -1.4px; }.header span { display: block; color: #6e8077; margin-top: 9px; font-size: 15px; }
